@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "description": "Write PLAN.md final reflections",
+        "completed": true,
+        "tags": [
+            "docs",
+            "final-project"
+        ],
+        "_type": "Task"
+    },
+    {
+        "id": 2,
+        "description": "Submit final project to GitHub",
+        "completed": false,
+        "tags": [
+            "github",
+            "final-project"
+        ],
+        "_type": "DueDateTask",
+        "due_date": "2026-10-25"
+    },
+    {
+        "id": 3,
+        "description": "Prepare presentation slides",
+        "completed": false,
+        "tags": [
+            "presentation",
+            "urgent"
+        ],
+        "_type": "PriorityTask",
+        "priority": "High"
+    },
+    {
+        "id": 4,
+        "description": "Implement search, filter and sort",
+        "completed": true,
+        "tags": [
+            "python",
+            "coding"
+        ],
+        "_type": "PriorityTask",
+        "priority": "Medium"
+    },
+    {
+        "id": 5,
+        "description": "Practice CLI demo",
+        "completed": false,
+        "tags": [
+            "presentation",
+            "demo"
+        ],
+        "_type": "DueDateTask",
+        "due_date": "2026-10-22"
+    }
+]
